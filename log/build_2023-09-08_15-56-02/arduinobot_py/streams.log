@@ -1,0 +1,35 @@
+[0.586s] Invoking command in '/home/alexander/Documents/arduinobot_ws/src/arduinobot_py': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/alexander/Documents/arduinobot_ws/build/arduinobot_py/prefix_override:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py build --build-base /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/build install --record /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/install.log --single-version-externally-managed
+[0.774s] running egg_info
+[0.774s] creating ../../build/arduinobot_py/arduinobot_py.egg-info
+[0.774s] writing ../../build/arduinobot_py/arduinobot_py.egg-info/PKG-INFO
+[0.775s] writing dependency_links to ../../build/arduinobot_py/arduinobot_py.egg-info/dependency_links.txt
+[0.775s] writing entry points to ../../build/arduinobot_py/arduinobot_py.egg-info/entry_points.txt
+[0.775s] writing requirements to ../../build/arduinobot_py/arduinobot_py.egg-info/requires.txt
+[0.775s] writing top-level names to ../../build/arduinobot_py/arduinobot_py.egg-info/top_level.txt
+[0.775s] writing manifest file '../../build/arduinobot_py/arduinobot_py.egg-info/SOURCES.txt'
+[0.776s] reading manifest file '../../build/arduinobot_py/arduinobot_py.egg-info/SOURCES.txt'
+[0.776s] writing manifest file '../../build/arduinobot_py/arduinobot_py.egg-info/SOURCES.txt'
+[0.776s] running build
+[0.776s] running build_py
+[0.776s] creating /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/build
+[0.776s] creating /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/build/lib
+[0.777s] creating /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/build/lib/arduinobot_py
+[0.777s] copying arduinobot_py/__init__.py -> /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/build/lib/arduinobot_py
+[0.777s] running install
+[0.777s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.777s]   warnings.warn(
+[0.777s] running install_lib
+[0.778s] creating /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py
+[0.778s] copying /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/build/lib/arduinobot_py/__init__.py -> /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py
+[0.778s] byte-compiling /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py/__init__.py to __init__.cpython-310.pyc
+[0.778s] running install_data
+[0.779s] creating /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/share/ament_index
+[0.779s] creating /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/share/ament_index/resource_index
+[0.779s] creating /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/share/ament_index/resource_index/packages
+[0.779s] copying resource/arduinobot_py -> /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/share/ament_index/resource_index/packages
+[0.779s] copying package.xml -> /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/share/arduinobot_py
+[0.779s] running install_egg_info
+[0.781s] Copying ../../build/arduinobot_py/arduinobot_py.egg-info to /home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages/arduinobot_py-0.0.0-py3.10.egg-info
+[0.781s] running install_scripts
+[0.798s] writing list of installed files to '/home/alexander/Documents/arduinobot_ws/build/arduinobot_py/install.log'
+[0.831s] Invoked command in '/home/alexander/Documents/arduinobot_ws/src/arduinobot_py' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/alexander/Documents/arduinobot_ws/build/arduinobot_py/prefix_override:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py build --build-base /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/build install --record /home/alexander/Documents/arduinobot_ws/build/arduinobot_py/install.log --single-version-externally-managed

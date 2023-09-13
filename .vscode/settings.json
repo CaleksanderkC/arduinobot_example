@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages",
+        "/home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages",
+        "/home/alexander/Documents/arduinobot_ws/install/arduinobot_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "files.associations": {
+        "chrono": "cpp",
+        "functional": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
+    }
+}

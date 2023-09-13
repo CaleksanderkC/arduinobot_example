@@ -1,0 +1,25 @@
+[0.525s] Invoking command in '/home/alexander/Documents/arduinobot_ws/src/arduinobot_py_example': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/alexander/Documents/arduinobot_ws/build/arduinobot_py_example/prefix_override:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py_example build --build-base /home/alexander/Documents/arduinobot_ws/build/arduinobot_py_example/build install --record /home/alexander/Documents/arduinobot_ws/build/arduinobot_py_example/install.log --single-version-externally-managed
+[0.714s] running egg_info
+[0.715s] writing ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/PKG-INFO
+[0.715s] writing dependency_links to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/dependency_links.txt
+[0.715s] writing entry points to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/entry_points.txt
+[0.715s] writing requirements to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/requires.txt
+[0.716s] writing top-level names to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/top_level.txt
+[0.717s] reading manifest file '../../build/arduinobot_py_example/arduinobot_py_example.egg-info/SOURCES.txt'
+[0.718s] writing manifest file '../../build/arduinobot_py_example/arduinobot_py_example.egg-info/SOURCES.txt'
+[0.718s] running build
+[0.718s] running build_py
+[0.718s] running install
+[0.719s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.719s]   warnings.warn(
+[0.719s] running install_lib
+[0.719s] running install_data
+[0.720s] running install_egg_info
+[0.721s] removing '/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages/arduinobot_py_example-0.0.0-py3.10.egg-info' (and everything under it)
+[0.722s] Copying ../../build/arduinobot_py_example/arduinobot_py_example.egg-info to /home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages/arduinobot_py_example-0.0.0-py3.10.egg-info
+[0.722s] running install_scripts
+[0.740s] Installing simple_parameter script to /home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/arduinobot_py_example
+[0.740s] Installing simple_publisher script to /home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/arduinobot_py_example
+[0.740s] Installing simple_subscriber script to /home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/arduinobot_py_example
+[0.740s] writing list of installed files to '/home/alexander/Documents/arduinobot_ws/build/arduinobot_py_example/install.log'
+[0.772s] Invoked command in '/home/alexander/Documents/arduinobot_ws/src/arduinobot_py_example' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/alexander/Documents/arduinobot_ws/build/arduinobot_py_example/prefix_override:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/arduinobot_py_example build --build-base /home/alexander/Documents/arduinobot_ws/build/arduinobot_py_example/build install --record /home/alexander/Documents/arduinobot_ws/build/arduinobot_py_example/install.log --single-version-externally-managed

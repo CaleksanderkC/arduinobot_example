@@ -1,0 +1,2 @@
+Invoking command in '/home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example -- -j12 -l12
+Invoked command in '/home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example -- -j12 -l12

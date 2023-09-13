@@ -1,0 +1,30 @@
+[0.026s] Invoking command in '/home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example -- -j12 -l12
+[0.061s] [35m[1mConsolidate compiler generated dependencies of target simple_parameter[0m
+[0.070s] [ 66%] Built target simple_publisher
+[0.070s] [ 66%] Built target simple_subscriber
+[0.078s] [ 83%] [32mBuilding CXX object CMakeFiles/simple_parameter.dir/src/simple_parameter.cpp.o[0m
+[2.566s] [100%] [32m[1mLinking CXX executable simple_parameter[0m
+[2.688s] [100%] Built target simple_parameter
+[2.698s] Invoked command in '/home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example -- -j12 -l12
+[2.722s] Invoking command in '/home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example
+[2.729s] -- Install configuration: ""
+[2.729s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/lib/arduinobot_cpp_example/simple_publisher
+[2.730s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/lib/arduinobot_cpp_example/simple_subscriber
+[2.730s] -- Installing: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/lib/arduinobot_cpp_example/simple_parameter
+[2.731s] -- Set runtime path of "/home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/lib/arduinobot_cpp_example/simple_parameter" to ""
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_example
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_example
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/ament_prefix_path.sh
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/ament_prefix_path.dsv
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/path.sh
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/path.dsv
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.bash
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.sh
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.zsh
+[2.731s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.dsv
+[2.732s] -- Installing: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/package.dsv
+[2.732s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/packages/arduinobot_cpp_example
+[2.732s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/cmake/arduinobot_cpp_exampleConfig.cmake
+[2.732s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/cmake/arduinobot_cpp_exampleConfig-version.cmake
+[2.732s] -- Up-to-date: /home/alexander/Documents/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/package.xml
+[2.735s] Invoked command in '/home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py_example:/home/alexander/Documents/arduinobot_ws/install/arduinobot_py:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/alexander/Documents/arduinobot_ws/build/arduinobot_cpp_example
